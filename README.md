@@ -1,6 +1,7 @@
-## Olá, sou Ana Raquel
+## Olá, me chamo Raquel
 
 • Estudante de **Engenharia de Software** no **IFPB**
+
 • Focada em **Desenvolvimento Web**  
 • Atualmente desenvolvendo habilidades em **React**
 
@@ -17,8 +18,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquweelO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raquweel&show_icons=true)
 
-### 📈 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquweel&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquweel&layout=compact)
+
