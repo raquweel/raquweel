@@ -1,7 +1,9 @@
 ## Olá, me chamo Raquel
 
 • Estudante de **Engenharia de Software** no **IFPB**
+
 • Focada em **Desenvolvimento Web**  
+
 • Atualmente desenvolvendo habilidades em **React**
 
 ---
@@ -14,14 +16,3 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=raquweel&show_icons=true&theme=tokyonight&hide_border=true" />
-
-### 📈 Linguagens mais usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquweel&layout=compact&theme=tokyonight&hide_border=true" />
-
