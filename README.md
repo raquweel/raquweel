@@ -1,7 +1,6 @@
 ## Olá, me chamo Raquel
 
 • Estudante de **Engenharia de Software** no **IFPB**
-
 • Focada em **Desenvolvimento Web**  
 • Atualmente desenvolvendo habilidades em **React**
 
