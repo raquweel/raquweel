@@ -17,7 +17,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raquweel&show_icons=true)
+### 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquweel&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=raquweel&show_icons=true&theme=tokyonight&hide_border=true" />
+
+### 📈 Linguagens mais usadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquweel&layout=compact&theme=tokyonight&hide_border=true" />
 
